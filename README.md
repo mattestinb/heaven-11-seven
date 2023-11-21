@@ -1,4 +1,4 @@
-# ReadMeGen: Automated ReadMe File Generator
+# Note Taker Express
   [![License: None](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Table of Contents
 - [Description](#description)
